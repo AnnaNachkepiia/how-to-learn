@@ -216,7 +216,7 @@
     overflow: hidden;
     position: relative;
 }
-.table__section-title_theme_dark{
+.section-title_theme_dark{
     line-height: 1.15;
     font-size: 60px;
     font-weight: bold;
@@ -224,7 +224,7 @@
     color: white;
     z-index: 2;
 }
-.table__section-subtitle_theme_dark{
+.section-subtitle_theme_dark{
     line-height: 34px;
     font-size: 24px;
     font-weight: normal;

@@ -41,7 +41,9 @@
     color: #2f80ed;
     text-decoration: none;
 }
-
+.header__link:hover{
+    color:#2360b0;
+}
 .header__subtitle{
     position: absolute;
     left: 64px;
@@ -209,6 +211,9 @@
     color: #2f80ed;
     text-decoration: none;
 }
+.feynman__link:hover{
+    color:#2360b0;
+}
 .kaufman{ 
     display:flex;
     align-items: center;
@@ -323,7 +328,9 @@
 .footer__column-link{
     color: #fff;
     text-decoration: none;
-
+}
+.footer__column-link:hover{
+    color:#bebebe;
 }
 .footer__column_content_social{
     margin: 0;

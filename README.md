@@ -1,4 +1,5 @@
-#h1 How to learn project
+How to learn project
+
 The second project is supplemented new sections and now contains 11 blocks:
 
 1. header

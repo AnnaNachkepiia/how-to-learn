@@ -4,7 +4,6 @@
     text-decoration: none;
 }
 .footer__column-link:hover{
-    color:#bebebe;
     transition: 2s ease;
     opacity: 0.33;
 }

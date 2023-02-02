@@ -1,20 +1,14 @@
-How to learn project
+# How to learn project
+Проектная работа на курсе Яндекс.Практикума. Одностраничный сайт - лонгрид, который содержит анимации CSS, вставки iframe
 
-The second project is supplemented new sections and now contains 11 blocks:
+### Используемые технологии
+- HTML5
+- CSS
+- БЭМ
+- Семантическая верстка
+- CSS-animation
+- Flexbox
+- iframe
 
-1. header
-2. description
-3. techniques
-4. video
-5. oakley
-6. feynman
-7. digits
-8. khan
-9. kaufman
-10. resources
-11. footer
-
-Blocks 1 and 9 use CSS-animation technology
-Block 4 uses iframe
-
-Hope, in future projects the README file will be more informative!
+### Демо сайта
+ https://annanachkepiia.github.io/how-to-learn/

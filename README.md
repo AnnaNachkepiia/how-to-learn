@@ -9,6 +9,3 @@
 - CSS-animation
 - Flexbox
 - iframe
-
-### Демо сайта
- https://annanachkepiia.github.io/how-to-learn/

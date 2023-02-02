@@ -9,3 +9,7 @@
 - CSS-animation
 - Flexbox
 - iframe
+
+### Запуск проекта:
+- Клонировать репозиторий: git clone 
+- Запустить index.html чкерез LiveServer
